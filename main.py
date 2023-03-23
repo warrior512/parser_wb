@@ -1,4 +1,5 @@
 # https://freelance.habr.com/tasks/485159
+# nikolaysmirnov86@gmail.com
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import time
